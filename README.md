@@ -17,7 +17,7 @@ Toda la documentación, análisis estadístico, notas metodológicas y conclusio
 | `Business_Tendency_Surveys_CLEAN.csv` | Datos limpios de percepción económica / encuestas de tendencia empresarial. |
 | `idh_CLEAN.csv` | Datos limpios del Índice de Desarrollo Humano (IDH) por país/año. |
 | `Business_tendency_surveys_idh.ipynb` | Notebook de análisis exploratorio y pruebas estadísticas. |
-| `percepcion_economica_idh.py` | Código de la app Streamlit (dashboard). Carga los CSV y genera gráficos/relaciones. |
+| `percepcion_economica_idh.py` | Código de la app Streamlit (dashboard).|
 | `Percepcion economica--- IDH.pdf` | Documento con explicación completa del proyecto (contexto, análisis, resultados). |
 | `requirements.txt` | Lista mínima de dependencias para correr el proyecto. |
 | `README.md` | Este archivo. |
