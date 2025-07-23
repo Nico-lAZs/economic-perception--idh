@@ -30,6 +30,6 @@ Toda la documentación, análisis estadístico, notas metodológicas y conclusio
 
 ---
 
-## 💻 Cómo ejecutar el dashboard localmente
+## 💻 Cómo ejecutar el dashboard 
 
 > ⚠️ **Importante:** Debes tener los archivos `Business_Tendency_Surveys_CLEAN.csv` e `idh_CLEAN.csv` descargados para despues cargarlos en la pagina--dashboard.
